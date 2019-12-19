@@ -1,0 +1,9 @@
+.display-5-day {
+    background-color: lightslategray;
+    border-radius: 10px ;
+    width: 75px;
+    height: 175px;
+    padding: 5px;
+    margin: 10px;
+    text-align: center;
+}
